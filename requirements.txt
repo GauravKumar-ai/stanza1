@@ -1,3 +1,4 @@
 pandas
 numpy
 sql dbms
+tensor flow
