@@ -2,3 +2,4 @@ pandas
 numpy
 sql dbms
 tensor flow
+kears integration
